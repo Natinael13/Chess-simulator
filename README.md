@@ -4,5 +4,5 @@ Given a code skeleton, created a simulator that will take as input a file that d
 
 # What I Gained
 
-* Experience with design patterns, Specifically: Singleton, Factory, External Dependency Injection, Observer, and (Internal) Iterator.
+* Experience with creational, structural, and behavioral design patterns, Specifically: Singleton, Factory, External Dependency Injection, Observer, and (Internal) Iterator.
 * Practice with the essential software engineering skill of solving programming problems by finding library code
